@@ -1,0 +1,101 @@
+User ID,Age,Gender,Sleep Quality,Bedtime,Daily Steps,Calories Burned,Physical Activity Level,Dietary Habits,Sleep Disorders,Medication Usage,Occupation,Sleep Duration,Stress Level,BMI Category,Heart Rate,Sleep Disorder,BP_Systolic,BP_Diastolic
+1,25,F,8,23:00,8000,2500,medium,healthy,no,no,Software Engineer,6.1,6,Overweight,77,,126,83
+2,34,M,7,00:30,5000,2200,low,unhealthy,yes,yes,Doctor,6.2,8,Normal,75,,125,80
+3,29,F,9,22:45,9000,2700,high,healthy,no,no,Doctor,6.2,8,Normal,75,,125,80
+4,41,M,5,01:00,4000,2100,low,unhealthy,yes,no,Sales Representative,5.9,8,Obese,85,Sleep Apnea,140,90
+5,22,F,8,23:30,10000,2800,high,medium,no,no,Sales Representative,5.9,8,Obese,85,Sleep Apnea,140,90
+6,37,M,6,00:15,6000,2300,medium,unhealthy,no,yes,Software Engineer,5.9,8,Obese,85,Insomnia,140,90
+7,30,F,8,22:30,8500,2600,high,healthy,no,no,Teacher,6.3,7,Obese,82,Insomnia,140,90
+8,45,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,7.8,6,Normal,70,,120,80
+9,27,F,9,23:00,9500,2750,medium,healthy,no,no,Doctor,7.8,6,Normal,70,,120,80
+10,32,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,7.8,6,Normal,70,,120,80
+11,50,F,5,01:00,3500,2100,low,unhealthy,yes,yes,Doctor,6.1,8,Normal,70,,120,80
+12,23,M,9,22:00,11000,2900,high,healthy,no,no,Doctor,7.8,6,Normal,70,,120,80
+13,36,F,8,23:30,7000,2400,medium,medium,no,no,Doctor,6.1,8,Normal,70,,120,80
+14,48,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,6.0,8,Normal,70,,120,80
+15,28,F,9,22:15,9500,2700,high,healthy,no,no,Doctor,6.0,8,Normal,70,,120,80
+16,31,M,6,00:30,6000,2300,medium,unhealthy,no,no,Doctor,6.0,8,Normal,70,,120,80
+17,26,F,8,23:45,8500,2500,medium,medium,no,no,Nurse,6.5,7,Normal Weight,80,Sleep Apnea,132,87
+18,39,M,5,01:15,4000,2100,low,unhealthy,yes,yes,Doctor,6.0,8,Normal,70,Sleep Apnea,120,80
+19,33,F,9,22:30,10000,2800,high,healthy,no,no,Nurse,6.5,7,Normal Weight,80,Insomnia,132,87
+20,42,M,7,00:45,5500,2400,medium,medium,no,no,Doctor,7.6,6,Normal,70,,120,80
+21,29,F,8,23:15,9000,2600,high,healthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+22,35,M,5,01:00,4000,2100,low,unhealthy,yes,no,Doctor,7.7,6,Normal,70,,120,80
+23,40,F,9,22:45,9500,2750,medium,healthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+24,47,M,6,00:15,6000,2300,medium,unhealthy,no,yes,Doctor,7.7,6,Normal,70,,120,80
+25,32,F,8,23:00,8500,2600,high,medium,no,no,Doctor,7.8,6,Normal,70,,120,80
+26,44,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,7.9,6,Normal,70,,120,80
+27,27,F,9,22:30,10000,2800,medium,healthy,no,no,Doctor,7.8,6,Normal,70,,120,80
+28,38,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,7.9,6,Normal,70,,120,80
+29,31,F,8,23:30,9000,2500,high,healthy,no,no,Doctor,7.9,6,Normal,70,,120,80
+30,49,M,5,01:15,3500,2100,low,unhealthy,yes,no,Doctor,7.9,6,Normal,70,,120,80
+31,24,F,9,22:00,10500,2900,high,healthy,no,no,Nurse,6.4,7,Normal Weight,78,Sleep Apnea,130,86
+32,45,M,6,00:30,5000,2200,medium,unhealthy,no,yes,Nurse,6.4,7,Normal Weight,78,Insomnia,130,86
+33,37,F,8,23:15,8500,2600,high,medium,no,no,Nurse,7.9,4,Normal Weight,69,,117,76
+34,46,M,4,01:00,3000,2000,low,unhealthy,yes,no,Doctor,6.1,8,Normal,72,,125,80
+35,28,F,9,22:45,10000,2750,medium,healthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+36,40,M,7,00:15,6000,2300,medium,unhealthy,no,yes,Doctor,6.1,8,Normal,72,,125,80
+37,35,F,8,23:30,9000,2500,high,medium,no,no,Doctor,6.1,8,Normal,72,,125,80
+38,50,M,5,01:30,3500,2100,low,unhealthy,yes,yes,Doctor,7.6,6,Normal,70,,120,80
+39,26,F,9,22:00,10500,2900,high,healthy,no,no,Doctor,7.6,6,Normal,70,,120,80
+40,41,M,6,00:45,5000,2200,medium,unhealthy,no,no,Doctor,7.6,6,Normal,70,,120,80
+41,30,F,8,23:15,8500,2600,high,medium,no,no,Doctor,7.7,6,Normal,70,,120,80
+42,44,M,4,01:00,3000,2000,low,unhealthy,yes,yes,Doctor,7.7,6,Normal,70,,120,80
+43,34,F,9,22:45,10000,2750,medium,healthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+44,48,M,7,00:15,6000,2300,medium,unhealthy,no,yes,Doctor,7.8,6,Normal,70,,120,80
+45,33,F,8,23:30,9000,2500,high,medium,no,no,Doctor,7.7,6,Normal,70,,120,80
+46,47,M,5,01:30,3500,2100,low,unhealthy,yes,no,Doctor,7.8,6,Normal,70,,120,80
+47,28,F,9,22:00,10500,2900,high,healthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+48,39,M,6,00:30,5000,2200,medium,unhealthy,no,yes,Doctor,7.8,6,Normal,70,,120,80
+49,32,F,8,23:15,8500,2600,high,medium,no,no,Doctor,7.7,6,Normal,70,,120,80
+50,46,M,4,01:00,3000,2000,low,unhealthy,yes,no,Doctor,7.7,6,Normal,70,Sleep Apnea,120,80
+51,23,F,9,22:15,9500,2700,high,healthy,no,no,Engineer,7.5,3,Normal,70,,120,80
+52,38,M,6,00:30,5000,2200,medium,unhealthy,no,no,Engineer,7.5,3,Normal,70,,120,80
+53,27,F,8,23:00,8500,2600,medium,medium,no,no,Doctor,6.0,8,Normal,72,,125,80
+54,44,M,5,01:15,4000,2100,low,unhealthy,yes,no,Doctor,7.6,6,Normal,70,,120,80
+55,29,F,9,22:30,9000,2750,high,healthy,no,no,Doctor,6.0,8,Normal,72,,125,80
+56,36,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,6.0,8,Normal,72,,125,80
+57,30,F,8,23:15,8500,2600,high,medium,no,no,Doctor,7.7,6,Normal,70,,120,80
+58,45,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,6.0,8,Normal,72,,125,80
+59,25,F,9,22:15,9500,2700,high,healthy,no,no,Doctor,6.0,8,Normal,72,,125,80
+60,50,M,6,00:30,5000,2200,medium,unhealthy,no,no,Doctor,7.7,6,Normal,70,,120,80
+61,28,F,8,23:00,8500,2600,medium,medium,no,no,Doctor,6.0,8,Normal,72,,125,80
+62,47,M,5,01:15,4000,2100,low,unhealthy,yes,no,Doctor,6.0,8,Normal,72,,125,80
+63,26,F,9,22:30,9000,2750,high,healthy,no,no,Doctor,6.2,8,Normal,72,,125,80
+64,39,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,6.2,8,Normal,72,,125,80
+65,31,F,8,23:15,8500,2600,high,medium,no,no,Doctor,6.2,8,Normal,72,,125,80
+66,43,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,6.2,8,Normal,72,,125,80
+67,24,F,9,22:15,9500,2700,high,healthy,no,no,Accountant,7.2,6,Normal Weight,68,,118,76
+68,38,M,6,00:30,5000,2200,medium,unhealthy,no,no,Doctor,6.0,8,Normal,72,Insomnia,125,80
+69,28,F,8,23:00,8500,2600,medium,medium,no,no,Scientist,6.2,6,Overweight,76,,128,85
+70,48,M,5,01:15,4000,2100,low,unhealthy,yes,no,Scientist,6.2,6,Overweight,76,,128,85
+71,32,F,9,22:30,9000,2750,high,healthy,no,no,Doctor,6.1,8,Normal,72,,125,80
+72,41,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,6.1,8,Normal,72,,125,80
+73,29,F,8,23:15,8500,2600,high,medium,no,no,Doctor,6.1,8,Normal,72,,125,80
+74,50,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Doctor,6.1,8,Normal,72,,125,80
+75,26,F,9,22:15,9500,2700,high,healthy,no,no,Doctor,6.0,8,Normal,72,,125,80
+76,44,M,6,00:30,5000,2200,medium,unhealthy,no,no,Doctor,6.0,8,Normal,72,,125,80
+77,30,F,8,23:00,8500,2600,medium,medium,no,no,Doctor,6.0,8,Normal,72,,125,80
+78,47,M,5,01:15,4000,2100,low,unhealthy,yes,no,Doctor,6.0,8,Normal,72,,125,80
+79,25,F,9,22:30,9000,2750,high,healthy,no,no,Doctor,6.0,8,Normal,72,,125,80
+80,49,M,7,00:45,6500,2400,medium,medium,no,no,Doctor,6.0,8,Normal,72,,125,80
+81,31,F,8,23:15,8500,2600,high,medium,no,no,Scientist,5.8,8,Overweight,81,Sleep Apnea,131,86
+82,42,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Scientist,5.8,8,Overweight,81,Sleep Apnea,131,86
+83,27,F,9,22:15,9500,2700,high,healthy,no,no,Teacher,6.7,5,Overweight,70,,128,84
+84,45,M,6,00:30,5000,2200,medium,unhealthy,no,no,Teacher,6.7,5,Overweight,70,,128,84
+85,34,F,8,23:00,8500,2600,medium,medium,no,no,Software Engineer,7.5,5,Normal Weight,70,,120,80
+86,50,M,5,01:15,4000,2100,low,unhealthy,yes,no,Accountant,7.2,4,Normal,68,,115,75
+87,28,F,9,22:30,9000,2750,high,healthy,no,no,Engineer,7.2,4,Normal,65,,125,80
+88,39,M,7,00:45,6500,2400,medium,medium,no,no,Engineer,7.2,4,Normal,65,,125,80
+89,30,F,8,23:15,8500,2600,high,medium,no,no,Engineer,7.3,4,Normal,65,,125,80
+90,47,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Engineer,7.3,4,Normal,65,,125,80
+91,23,F,9,22:15,9500,2700,high,healthy,no,no,Engineer,7.3,4,Normal,65,,125,80
+92,36,M,6,00:30,5000,2200,medium,unhealthy,no,no,Engineer,7.3,4,Normal,65,,125,80
+93,29,F,8,23:00,8500,2600,medium,medium,no,no,Software Engineer,7.5,5,Normal Weight,70,,120,80
+94,50,M,5,01:15,4000,2100,low,unhealthy,yes,no,Lawyer,7.4,5,Obese,84,Sleep Apnea,135,88
+95,27,F,9,22:30,9000,2750,high,healthy,no,no,Accountant,7.2,4,Normal,68,Insomnia,115,75
+96,43,M,7,00:45,6500,2400,medium,medium,no,no,Accountant,7.1,4,Normal,68,,115,75
+97,33,F,8,23:15,8500,2600,high,medium,no,no,Accountant,7.2,4,Normal,68,,115,75
+98,46,M,4,01:30,3000,2000,low,unhealthy,yes,yes,Accountant,7.1,4,Normal,68,,115,75
+99,25,F,9,22:15,9500,2700,high,healthy,no,no,Teacher,7.1,4,Normal,68,,115,75
+100,41,M,6,00:30,5000,2200,medium,unhealthy,no,no,Teacher,7.1,4,Normal,68,,115,75
