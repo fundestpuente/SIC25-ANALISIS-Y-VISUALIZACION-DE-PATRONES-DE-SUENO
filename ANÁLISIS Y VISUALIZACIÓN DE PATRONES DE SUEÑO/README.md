@@ -1,4 +1,4 @@
-# 🌙 <ANÁLISIS Y VISUALIZACIÓN DE PATRONES DEL SUEÑO>
+# 🌙 ANÁLISIS Y VISUALIZACIÓN DE PATRONES DEL SUEÑO
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2025)  
 **Sección:** EC-03  
@@ -54,18 +54,20 @@ Este proyecto analiza los hábitos de sueño para detectar factores que influyen
    ```
 
 3. **Ejecutar la aplicación**
+
    Desde la raíz del proyecto, corre:
    ```bash
    python src/app.py
    ```
 4. **Abrir el navegador**
+
    Una vez iniciada la app, abre en tu navegador:
    ```bash
    http://127.0.0.1:5000/
    ```
 ---
 
-## 📂 Estructura del Código (sugerida)
+## 📂 Estructura del Código
 ```
 SIC25-ANALISIS-Y-VISUALIZACION-DE-PATRONES-DE-SUENO/
 │
@@ -94,4 +96,5 @@ SIC25-ANALISIS-Y-VISUALIZACION-DE-PATRONES-DE-SUENO/
 ---
 
 ✨ “El sueño es la cadena de oro que ata la salud y el cuerpo.”
+
 💙 Samsung Innovation Campus – Ecuador 2025
