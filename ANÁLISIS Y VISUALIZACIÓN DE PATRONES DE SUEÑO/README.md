@@ -1,8 +1,7 @@
-# 📌 <ANÁLISIS Y VISUALIZACIÓN DE PATRONES DEL SUEÑO>
+# 🌙 <ANÁLISIS Y VISUALIZACIÓN DE PATRONES DEL SUEÑO>
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2025)  
-**Seccion:** <ecuador03>  
-**Carpeta:** `/<ecuador03>/<proyecto-xx-ANÁLISIS Y VISUALIZACIÓN DE PATRONES DEL SUEÑO >`
+**Sección:** EC-03  
 
 ---
 
@@ -37,72 +36,62 @@ Este proyecto analiza los hábitos de sueño para detectar factores que influyen
 
 ## ⚙️ Instrucciones de Instalación y Ejecución
 
-### Requisitos
+### 🔧 Requisitos
 - Python 3.9+ (recomendado)
 - Git
 
-### Pasos
-1. Clonar el repositorio (o asegurarse de estar en la carpeta del proyecto):
+### 🚀 Pasos
+1. **Clonar el repositorio**
    ```bash
-   git clone <URL_DEL_REPO>
-   cd <ruta/al/proyecto>   # ej: cd ecuador03/proyecto-01-nombre
+   git clone https://github.com/fundestpuente/SIC25-ANALISIS-Y-VISUALIZACION-DE-PATRONES-DE-SUENO.git
+   cd "SIC25-ANALISIS-Y-VISUALIZACION-DE-PATRONES-DE-SUENO"
    ```
 
-2. Actualizar pip e instalar dependencias:
+2. **Actualizar pip e instalar dependencias**
    ```bash
-   pip install --upgrade pip
+   python -m pip install --upgrade pip
    pip install -r requirements.txt
    ```
 
-3. Ejecutar la aplicación (ejemplo):
+3. **Ejecutar la aplicación**
+   Desde la raíz del proyecto, corre:
    ```bash
-   python main.py
+   python src/app.py
    ```
-   O, si es una aplicación web:
+4. **Abrir el navegador**
+   Una vez iniciada la app, abre en tu navegador:
    ```bash
-   uvicorn app.main:app --reload   
+   http://127.0.0.1:5000/
    ```
-   Reemplaza los comandos anteriores por los específicos de tu proyecto.
-
-4. Ejecutar pruebas (si aplica):
-   ```bash
-   pytest
-   ```
-
 ---
 
 ## 📂 Estructura del Código (sugerida)
 ```
-proyecto-xx-nombre/
+SIC25-ANALISIS-Y-VISUALIZACION-DE-PATRONES-DE-SUENO/
 │
-├── main.py               # Punto de entrada principal
-├── README.md             # Este archivo (personalizar)
+│
+├── README.md             
 ├── requirements.txt      # Dependencias del proyecto
+├── analysis.ipynb        # Notebook de análisis exploratorio
+│
 ├── src/                  # Código fuente del proyecto
-│   ├── module1.py
-│   └── module2.py
-├── data/                 # Datos de ejemplo 
-├── docs/                 # Documentación adicional (opcional)
-└── .gitignore
+│   ├── app.py            # Archivo principal de la aplicación
+│   ├── utils/            # Funciones auxiliares
+│   ├── templates/        # Archivos HTML (Flask)
+│   └── static/           # Archivo CSS
+│
+├── data/                 # Datasets usados
+│   └── processed/        # Dataset procesado
+│
+└── ...
 ```
-
-> Nota: Ajusta la estructura según las necesidades de tu proyecto, pero mantén orden y claridad.
-
 ---
 
 ## ✅ Herramientas Implementadas
 - **Lenguaje:** Python 3.9
-- **Librerías principales:** `<pandas, numpy, flask, fastapi, matplotlib, etc.>` (lista → reemplazar)
-- **Otras herramientas:** `<Docker, GitHub Actions (CI), pytest, etc.>` (lista → reemplazar)
+- **Librerías principales:** `<pandas, numpy, flask, matplotlib, seaborn>`
 
 ---
 
-## 💡 Buenas prácticas y reglas internas
-- Trabajar únicamente dentro de la carpeta asignada al grupo.
-- Commits claros: `feat: agrega función X`, `fix: corrige bug en Y`, `docs: actualiza README`.
-- Mantener el README del proyecto actualizado con cambios importantes.
-
-
-> **IMPORTANTE:** Este README es una plantilla base. Cada grupo debe editarlo y completarlo con la información real de su proyecto antes de la entrega.
-
-¡Éxitos con tu proyecto! 🚀
+✨ “El sueño es la cadena de oro que ata la salud y el cuerpo.”
+💙 Samsung Innovation Campus – Ecuador 2025
