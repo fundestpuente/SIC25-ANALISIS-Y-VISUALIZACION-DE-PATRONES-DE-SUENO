@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+    {% block content %}
+    <h2>Formulario de Datos de Sueño y Salud</h2>
+    <form action="/routine" method="POST">
+        <div class="form-group">
+            <label for="age">Edad:</label>
+            <input type="number" id="age" name="age" min="0" required>
+        </div>
+
+        <div class="form-group">
+            <label for="gender">Género:</label>
+            <select id="gender" name="gender" required>
+            <option value="H">Hombre</option>
+            <option value="M">Mujer</option>
+        </select>
+        </div>
+
+        <div class="form-group">
+            <label for="sleep_quality">Calidad de sueño (0-10):</label>
+            <input type="number" id="sleep_quality" name="sleep_quality" min="0" max="10" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="sleep_time">Hora de dormir (formato 23:30):</label>
+            <input type="time" id="sleep_time" name="sleep_time" required>
+        </div>
+
+        <div class="form-group">
+            <label for="daily_steps">Pasos diarios:</label>
+            <input type="number" id="daily_steps" name="daily_steps" required>
+        </div>
+
+        <div class="form-group">
+            <label for="calories_burned">Calorías quemadas:</label>
+            <input type="number" id="calories_burned" name="calories_burned" required>
+        </div>
+
+        <div class="form-group">
+            <label for="activity_level">Nivel de actividad física:</label>
+            <select id="activity_level" name="activity_level" required>
+                <option value="low">Bajo</option>
+                <option value="medium">Medio</option>
+                <option value="high">Alto</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="eating_habits">Hábitos alimentarios:</label>
+            <select id="eating_habits" name="eating_habits" required>
+                <option value="healthy">Saludables</option>
+                <option value="medium">Moderados</option>
+                <option value="unhealthy">Poco saludables</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="sleep_disorder">¿Trastornos de sueño?</label>
+            <select id="sleep_disorder" name="sleep_disorder" required>
+                <option value="no">No</option>
+                <option value="si">Sí</option>
+            </select>  
+        </div>
+
+        <div class="form-group">
+            <label for="medication">¿Usa medicación para trastornos?</label>
+            <select id="medication" name="medication" required>
+                <option value="no">No</option>
+                <option value="si">Sí</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="stress_level">Nivel de estrés (0-10):</label>
+            <input type="number" id="stress_level" name="stress_level" min="0" max="10" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="bmi">Índice de Masa Corporal (IMC):</label>
+            <select id="bmi" name="bmi" required>
+                <option value="normal">Normal</option>
+                <option value="normal weight">Peso normal</option>
+                <option value="overweight">Sobrepeso</option>
+                <option value="obese">Obesidad</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="heart_rate">Frecuencia cardíaca:</label>
+            <input type="number" id="heart_rate" name="heart_rate" required>  
+        </div>
+        
+        <div class="form-group">
+            <label for="blood_pressure_diastolic">Presión diastólica:</label>
+            <input type="number" id="blood_pressure_diastolic" name="blood_pressure_diastolic" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="blood_pressure_systolic">Presión sistólica:</label>
+            <input type="number" id="blood_pressure_systolic" name="blood_pressure_systolic" required>
+        </div>
+        <button type="submit">Enviar</button>
+    </form>
+{% endblock %}

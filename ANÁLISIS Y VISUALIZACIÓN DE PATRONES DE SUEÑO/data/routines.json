@@ -1,0 +1,72 @@
+{
+    "Low": {
+        "Description": "Actualmente tienes hábitos irregulares y un nivel de actividad bajo. Es recomendable empezar con cambios graduales.",
+        "DailyRoutine": {
+            "Morning": [
+                "Beber un vaso de agua",
+                "Estiramientos ligeros o caminata de 10-15 minutos"
+            ],
+            "Afternoon": [
+                "Comer una alimentación equilibrada (proteínas, vegetales, frutas)",
+                "Realizar actividad física ligera o moderada (30 min de caminata o ejercicios de movilidad)"
+            ],
+            "Evening": [
+                "Evitar pantallas 1 hora antes de dormir",
+                "Tomar una cena ligera",
+                "Dormir entre 7-9 horas"
+            ]
+        },
+        "Tips": [
+            "Establece metas pequeñas y alcanzables cada semana",
+            "Mantén un registro de tus pasos y horas de sueño",
+            "Reducir consumo de cafeína y azúcar en la tarde"
+        ]
+    },
+    "Medium": {
+        "Description": "Tienes hábitos relativamente consistentes, pero hay espacio para optimizar tu rutina y nivel de energía.",
+        "DailyRoutine": {
+            "Morning": [
+                "Hacer 15-30 minutos de ejercicio moderado",
+                "Desayuno saludable con proteínas y fibra"
+            ],
+            "Afternoon": [
+                "Mantener actividad física durante el día (subir escaleras, caminar)",
+                "Comidas balanceadas y controladas en porciones"
+            ],
+            "Evening": [
+                "Relajación antes de dormir (lectura, meditación)",
+                "Evitar comidas pesadas tarde",
+                "Mantener un horario regular de sueño"
+            ]
+        },
+        "Tips": [
+            "Optimiza tu rutina de ejercicio incluyendo fuerza y cardio",
+            "Monitorea tu estrés y realiza pausas activas",
+            "Evita dispositivos electrónicos 30-60 minutos antes de dormir"
+        ]
+    },
+    "High": {
+        "Description": "Tus hábitos son consistentes y tu nivel de actividad es alto. Mantenerlos y buscar retos adicionales puede mejorar tu salud aún más.",
+        "DailyRoutine": {
+            "Morning": [
+                "Entrenamiento intenso o combinación de fuerza y cardio",
+                "Desayuno nutritivo y completo"
+            ],
+            "Afternoon": [
+                "Mantener actividad física y movilidad",
+                "Alimentación equilibrada con control de macronutrientes",
+                "Hidratación constante"
+            ],
+            "Evening": [
+                "Rutina de relajación o meditación",
+                "Cena ligera y nutritiva",
+                "Dormir suficiente y mantener horario de sueño"
+            ]
+        },
+        "Tips": [
+            "Incluye variedad en tu ejercicio para evitar estancamiento",
+            "Mantén hidratación y recuperación muscular",
+            "Controla niveles de estrés y descanso para optimizar rendimiento"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="routine-container">
+        <h2>Descripción de tu rutina</h2>
+        <p>{{ data.Description }}</p>
+
+        <h2>Rutina diaria</h2>
+        <div class="routine-columns">
+            <div class="routine-column">
+                <h4>Mañana</h4>
+                <ul>
+                    {% for item in data.DailyRoutine.Morning %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="routine-column">
+                <h4>Tarde</h4>
+                <ul>
+                    {% for item in data.DailyRoutine.Afternoon %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="routine-column">
+                <h4>Noche</h4>
+                <ul>
+                    {% for item in data.DailyRoutine.Evening %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="routine-column">
+                <h4>Tips</h4>
+                <ul>
+                    {% for tip in data.Tips %}
+                        <li>{{ tip }}</li>
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </div>
+
+        <a href="{{ url_for('index') }}">Volver al formulario</a>
+    </div>
+{% endblock %}
